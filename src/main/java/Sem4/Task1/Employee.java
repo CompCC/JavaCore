@@ -1,4 +1,4 @@
-package Sem4;
+package Sem4.Task1;
 
 public class Employee {
     private String login;
